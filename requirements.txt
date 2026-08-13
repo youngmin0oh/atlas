@@ -1,0 +1,10 @@
+numpy>=1.24
+scipy>=1.10
+pyyaml>=6.0
+scikit-learn>=1.2
+torch>=2.0
+botorch>=0.9
+gpytorch>=1.10
+networkx>=3.0
+kmapper>=2.0
+cma>=4.0
